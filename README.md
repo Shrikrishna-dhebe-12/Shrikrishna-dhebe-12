@@ -1,3 +1,5 @@
+<img width="982" height="948" alt="Copilot_20260917_184725" src="https://github.com/user-attachments/assets/93cc1121-b402-43bd-a72d-d371ef0cdc82" />
+
 ## 🌟 About Me
 
 🔭 Currently working on **Python Development, Data Analysis, Machine Learning, MLOps, Web Scraping & Full Stack Development**
