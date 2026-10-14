@@ -78,13 +78,12 @@
 
 <p align="left">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrikrishna-dhebe-12&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrishna-dhebe-12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrishna-dhebe-12&layout=compact&theme=tokyonight&hide_border=true&hide=C,C%2B%2B" alt="Top Languages"/>
 </p>
 
-<p align="left">u 
+<p align="left">
 <img src="https://streak-stats.demolab.com?user=Shrikrishna-dhebe-12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 ---
 
 ## 🎯 My Mission
