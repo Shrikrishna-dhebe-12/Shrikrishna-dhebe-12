@@ -2,16 +2,20 @@
 
 ### 🚀 Python Developer | Data Analyst | Machine Learning & MLOps Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shrikrishna-dhebe-12&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Shrikrishna-dhebe-12&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shrikrishna-dhebe-12&theme=tokyonight&no-frame=true&margin-w=5)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Shrikrishna-dhebe-12&theme=tokyonight&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 Currently working on **Python Development, Data Analysis, Machine Learning, MLOps, Web Scraping & Full Stack Development**
-- 🌱 Currently learning **Advanced Data Analytics, Machine Learning, Docker, Kubernetes, AWS & CI/CD**
-- 👯 Looking to collaborate on **Open Source, Data Analytics & Python Projects**
-- 🤝 Interested in building **Scalable AI and Data-Driven Applications**
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Working on **Python Development, Data Analytics, Machine Learning, MLOps & Full Stack Development**
+- 🌱 Learning **Advanced Analytics, Docker, Kubernetes, AWS & CI/CD**
+- 👯 Looking to collaborate on **Open Source, Data Science & ML Projects**
+- 🤝 Interested in building **Scalable AI Applications**
 - 💬 Ask me about **Python, Pandas, NumPy, SQL, Power BI, Web Scraping & Automation**
-- ⚡ Fun fact: **I turn data and ideas into real-world applications!**
+- ⚡ Fun Fact: **I turn data and ideas into real-world applications!**
 
 ---
 
@@ -19,74 +23,115 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shrikrushna-dhebe-32763431a/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
+
 <a href="https://github.com/Shrikrishna-dhebe-12" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
 
 ---
 
-## 💻 Languages and Tools
+## 💻 Tech Stack
 
-### 🐍 Programming & Web Development
+### Programming & Web Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap,fastapi" />
 </p>
 
-### 📊 Data Analysis & Visualization
+### Data Analytics
 
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn" />
 </p>
 
-### 🤖 Machine Learning & Automation
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,selenium" />
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Requests-2F6DB5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenPyXL-008000?style=for-the-badge"/>
+### Machine Learning & Automation
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,tensorflow,selenium" />
 </p>
 
-### ☁️ Cloud, DevOps & Deployment
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-2F6DB5?style=for-the-badge)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-008000?style=for-the-badge)
 
-<p align="left">
+### Cloud, DevOps & Deployment
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 📈 **Sales Analytics Dashboard** — Interactive sales insights and visualizations using Power BI.
-- 🤖 **Sales MLOps Project** — Machine learning prediction API using Flask, Docker and MLflow.
-- 📊 **RetainIQ** — Data-driven customer analytics and retention project.
-- 🕷️ **Python Web Scraping & Automation** — Automating data collection and Excel-based workflows.
+### 📈 Sales Analytics Dashboard
+Interactive business dashboard built using Power BI and Excel for sales performance monitoring.
+
+### 🤖 Sales MLOps Project
+Machine Learning prediction API using:
+
+- FastAPI
+- Docker
+- MLflow
+- Scikit-Learn
+- CI/CD
+
+### 📊 RetainIQ
+Customer retention and analytics platform focused on behavioural insights and churn prediction.
+
+### 🕷️ Python Web Scraping & Automation
+Automated data collection, Excel reporting, workflow automation and business intelligence solutions.
+
+### 🎓 AI Student Question Classifier
+Hybrid Machine Learning + Deep Learning based academic question classification system using:
+
+- FastAPI
+- Scikit-Learn
+- TensorFlow
+- Docker
+- Railway
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrikrishna-dhebe-12&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrishna-dhebe-12&layout=compact&theme=tokyonight&hide_border=true&hide=C,C%2B%2B" alt="Top Languages"/>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrikrishna-dhebe-12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrishna-dhebe-12&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=Shrikrishna-dhebe-12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Shrikrishna-dhebe-12&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
-## 🎯 My Mission
+## 🎯 2027 Goals
 
-**Learn. Build. Automate. Analyze. Deploy.**
+✅ Strengthen Data Analytics Skills
 
-My goal is to build impactful data-driven applications, strengthen my expertise in Data Analytics and Machine Learning, and grow into a skilled Data Scientist and MLOps Engineer.
+✅ Build End-to-End ML & MLOps Projects
 
+✅ Contribute to Open Source
+
+✅ Master Docker, Kubernetes & AWS
+
+✅ Become a Data Scientist & MLOps Engineer
+
+---
+
+## 💡 Motto
+
+> **Learn. Build. Automate. Analyze. Deploy.**
+
+Turning ideas into scalable data-driven solutions 🚀
