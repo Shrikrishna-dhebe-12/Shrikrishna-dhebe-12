@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shrikrushna Dhebe
 
-### 🚀 Python Developer | Data Analyst | Machine Learning & MLOps Enthusiast
+### 🚀 Python Developer | Data Analyst | Data Science | Full Stack Python | Machine Learning & MLOps Enthusiast
 
 ![](https://komarev.com/ghpvc/?username=Shrikrishna-dhebe-12&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -118,7 +118,7 @@ Hybrid Machine Learning + Deep Learning based academic question classification s
 
 ## 🎯 2027 Goals
 
-✅ Strengthen Data Analytics Skills
+✅ Strengthen Python Skills
 
 ✅ Build End-to-End ML & MLOps Projects
 
@@ -126,7 +126,7 @@ Hybrid Machine Learning + Deep Learning based academic question classification s
 
 ✅ Master Docker, Kubernetes & AWS
 
-✅ Become a Data Scientist & MLOps Engineer
+✅ Become a Python Developer
 
 ---
 
